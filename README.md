@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p3dr1np3trus
-- 👀 I’m interested in create games, operating systems and have a "little" big tech 
+- 👀 I’m interested in create games, operating systems and have a "little" tech enterprise
 - 🌱 I’m currently learning python, javascript, and use unity
 - 💞️ I’m looking to collaborate on help beginners
 - 😄 Pronouns: he / him
