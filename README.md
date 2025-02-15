@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, c++, and use unity
 - 💞️ I’m looking to collaborate on help beginners
 - 😄 Pronouns: he / him
-- ⚡ Fact: I'm autistic
+
 
 <!---
 p3dr1np3trus/p3dr1np3trus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
