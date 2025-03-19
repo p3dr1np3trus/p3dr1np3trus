@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p3dr1np3trus
-- 👀 I’m interested in create games, operating systems and have a "little" tech enterprise
-- 🌱 I’m currently learning python, c++, and use unity
+- 👀 I’m interested in create games, softwares, tools, and have a "little" tech enterprise
+- 🌱 I’m currently learning python, c++, and use godot
 - 💞️ I’m looking to collaborate on help beginners
 - 😄 Pronouns: he / him
 
