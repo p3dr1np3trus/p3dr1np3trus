@@ -8,8 +8,8 @@ quero me tornar um empresário no ramo da tecnologia.
 - html
 - css
 
-## O que eu estou aprendendo
-- c e c++
+## O que eu estou aprendendo:
+- c\ e c++
 - UI e UX design
 
 ## Minhas redes:
