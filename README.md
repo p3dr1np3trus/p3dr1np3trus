@@ -9,8 +9,10 @@ quero me tornar um empresário no ramo da tecnologia.
 - css
 
 ## O que eu estou aprendendo:
-- c\\ e c++
-- UI e UX design
+- c
+- c++
+- UI design
+- UX design
 
 ## Minhas redes:
 - [YouTube](https://www.youtube.com/@P3dr1nP3trus)
