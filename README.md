@@ -1,6 +1,6 @@
 # Oi!
 
-Meu nome é Pedro. Eu sou um dev aprendiz, nasci em 2011. 
+Meu nome é Pedro sou um dev aprendiz, nasci em 2011. 
 quero me tornar um empresário no ramo da tecnologia.
 
 ## O que eu sei:
