@@ -1,6 +1,7 @@
 # Oi!
 
-Meu nome é Pedro sou um dev aprendiz, nasci em 2011. 
+Meu nome é Pedro sou um dev aprendiz, nasci no Brasil. 
+Desenvolvo uns jogos e publico no [meu Itch io](https://p3dr1np3trus.itch.io)
 quero me tornar um empresário no ramo da tecnologia.
 
 ## O que eu sei:
