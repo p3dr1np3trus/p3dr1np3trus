@@ -1,13 +1,14 @@
-# Oi!
+# Boas-vindas ao meu Github!
 
 Meu nome é Pedro sou um dev aprendiz, nasci no Brasil. 
-Desenvolvo uns jogos e publico no [meu Itch io](https://p3dr1np3trus.itch.io)
+Desenvolvo uns jogos e publico no [meu Itch io](https://p3dr1np3trus.itch.io). \
 quero me tornar um empresário no ramo da tecnologia.
 
 ## O que eu sei:
 - python
 - html
 - css
+- godot
 
 ## O que eu estou aprendendo:
 - c
